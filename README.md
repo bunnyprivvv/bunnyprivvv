@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack & AI Engineer. Specializing in secure, high-performance architectures and intelligent machine systems to solve industrial & medical challenges
+Full-Stack & AI Engineer. Specializing in secure, high performance architectures and intelligent machine systems to solve industrial & medical challenges
 
 
 ## 🌐 Socials:
